@@ -1,1 +1,0 @@
-db_password = 'H@r10w2020!'
